@@ -1,10 +1,10 @@
-package com.udemy.microservices.currencyexchangeservice;
+package com.udemy.microservice.netflixeurekanamingserver;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CurrencyExchangeServiceApplicationTests {
+class NetflixEurekaNamingServerApplicationTests {
 
 	@Test
 	void contextLoads() {
