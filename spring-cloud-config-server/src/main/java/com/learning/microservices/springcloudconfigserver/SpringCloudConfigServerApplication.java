@@ -1,4 +1,4 @@
-package com.udemy.microservices.springcloudconfigserver;
+package com.learning.microservices.springcloudconfigserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

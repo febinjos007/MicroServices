@@ -1,4 +1,4 @@
-package com.udemy.microservices.springcloudconfigserver;
+package com.learning.microservices.springcloudconfigserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
